@@ -2,6 +2,7 @@
 
 
 source "https://rubygems.org"
+ruby "~> 3.2.x"
 
 group :test do
   gem "html-proofer", "~> 4.4"
@@ -22,4 +23,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 
-gem "jekyll-theme-chirpy", "~> 6.3"
+#gem "jekyll-theme-chirpy", "~> 6.3", ">= 6.3.1"
