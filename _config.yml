@@ -14,12 +14,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Weihong Zhong # the main title
+title: Weihong's site # the main title
 
 tagline: Don't panic # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Evan Clark's personal page
+  Weihong Zhong's personal site
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
