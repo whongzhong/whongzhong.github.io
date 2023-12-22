@@ -6,7 +6,8 @@ categories: notes
 tags: [shell]
 ---
 Macos使用onedrive有一个恶心的bug，当我们使用onedrive将文件同步到本地时，文件的创建时间会被修改成同步时的时间，只留下修改时间还是原始的正确属性：
-![[assets/postimgs/Pasted image 20231222125228.png]]
+<img width="695" alt="Screenshot 2023-12-22 at 13 01 14" src="https://github.com/whongzhong/whongzhong.github.io/assets/40679859/628b8c7f-67b3-4541-8c26-e5ee17a3b2e3">
+
 而在管理文件时，比如转移照片时，时间属性又十分重要，因此需要有一个合适的方法来将所有时间修改为正确的时间。
 
 使用Stat命令可以获得文件的所有时间信息：
