@@ -4,9 +4,16 @@ date: 2019-03-16 20:30:08
 categories: notes
 tags: [markdown]
 ---
+<style>
+    pre, code {
+        white-space: pre-wrap;
+    }
+</style>
+
 *原文来自<a href="https://www.jianshu.com/p/191d1e21f7ed" target = "_black">Markdown基本语法</a>*
 
-<!--more-->
+
+
 
 ##  标题
 
