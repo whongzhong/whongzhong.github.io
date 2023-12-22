@@ -5,6 +5,7 @@ vendor
 
 # Jekyll cache
 .jekyll-cache
+.obsidian
 _site
 
 # RubyGems
